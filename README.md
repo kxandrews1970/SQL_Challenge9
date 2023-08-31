@@ -1,1 +1,1 @@
-# SQL_Challenge9
+I used https://github.com/benanza/Employees-SQL as template for this one.  erd was confusing since i wasnt live in class. heavily borrowed that one.  I want more sql experience going forward so I will be going outside of class to get more involved with it.
